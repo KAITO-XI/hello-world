@@ -1,2 +1,3 @@
 # hello-world
-the start of me
+The start of me, I am trying to handle github.
+//Poor English makes it quite diffcult.
